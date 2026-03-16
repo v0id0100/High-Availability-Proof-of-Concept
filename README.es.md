@@ -42,6 +42,7 @@ En este proyecto voy a implementar un clúster web, un conjunto de nodos que tra
 | FW/LB Master | Lb01 | 192.168.1.10 | Nodo Activo, gestiona la VIP |
 | FW/LB Backup | Lb02 | 192.168.1.11 | Nodo Pasivo, sincroniza la funcionalidad |
 | Servidor Web | Web01 | 192.168.1.21 | Servicio Web Apache |
+| Servidor Web | Web01 | 192.168.1.22 | Servicio Web Apache |
 | IP Virtual (VIP) | - - - - - - - - - - - - | 192.168.1.100 | IP flexible, punto de entrada |
 
 ---

@@ -41,6 +41,7 @@ Well in this project I will implement more a web cluster, set of nodes working a
 | FW/LB Master | Lb01 | 192.168.1.10 | Active Node, it manage the VIP |
 | FW/LB Backup | Lb02 | 192.168.1.11 | Passive Node, it syncs the correct functionality |
 | Web Server | Web01 | 192.168.1.21 | Apache Web Service |
+| Web Server | Web01 | 192.168.1.22 | Apache Web Service |
 | Virtual IP (VIP) | - - - - - - - - - - - - | 192.168.1.100 | Flex IP address, entry point |
 
 ---
